@@ -1,0 +1,5 @@
+telethon
+requests
+python-telegram-bot
+# Voeg hier andere pakketten toe die je gebruikt
+
